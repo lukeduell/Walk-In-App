@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in closure #1 in FirebaseAddingView.body.getter:FirebaseAddingView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in FirebaseSignInLoadingView.body.getter:FirebaseSignInLoadingView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel.signInResult">
+            </PersistentString>
+            <PersistentString
+               value = "networkMonitor.authType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FirebaseNetworkMonitor.getDetail(Customer:userId:):FirebaseNetworkMonitor.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FirebaseNetworkMonitor.deleteListIndex(at:):FirebaseNetworkMonitor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "extcustomers">
+            </PersistentString>
+            <PersistentString
+               value = "networkMonitor.customers">
+            </PersistentString>
+            <PersistentString
+               value = "extcustomers.count">
+            </PersistentString>
+            <PersistentString
+               value = "indexSet.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in FirebaseNetworkMonitor.deleteListIndex(at:):FirebaseNetworkMonitor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "extcustomers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in closure #1 in FirebaseSignInLoadingView.body.getter:FirebaseSignInLoadingView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.username">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in FirebaseSignInView.body.getter:FirebaseSignInView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel.signInResult">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #2 in FirebaseDetailView.body.getter:FirebaseDetailView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "documentsURL">
+            </PersistentString>
+            <PersistentString
+               value = "localURL">
+            </PersistentString>
+            <PersistentString
+               value = "stringLocalURL">
+            </PersistentString>
+            <PersistentString
+               value = "detailModel.downloadedImage">
+            </PersistentString>
+            <PersistentString
+               value = "networkMonitor.numImages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in FirebaseDetailView.body.getter:FirebaseDetailView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.numImages">
+            </PersistentString>
+            <PersistentString
+               value = "detailModel.numItems">
+            </PersistentString>
+            <PersistentString
+               value = "networkMonitor.deleteInProgress">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in FirebaseDetailView.imageView.getter:FirebaseDetailView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.numImages">
+            </PersistentString>
+            <PersistentString
+               value = "detailModel.numItems">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in FirebaseListViewModel.getCustomers():FirebaseListViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "$search">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in FirebaseDetailLoadingView.body.getter:FirebaseDetailLoadingView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.numImages">
+            </PersistentString>
+            <PersistentString
+               value = "imageRef">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in FirebaseListViewModel.getSortedCustomers():FirebaseListViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "customerReturn">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FirebaseListViewModel.getCustomers():FirebaseListViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "search">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FirebaseDetailViewModel.getDetail(Customer:userId:):FirebaseDetailViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in FirebaseNetworkMonitor.getNumImages(_:):FirebaseNetworkMonitor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FirebaseListView.extsearchResults.getter:FirebaseListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.extcustomers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #2 in closure #2 in FirebaseDetailView.body.getter:FirebaseDetailView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.currentIdx">
+            </PersistentString>
+            <PersistentString
+               value = "networkMonitor.imageData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FirebaseDetailLoadingView.downloadImages():FirebaseDetailLoadingView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "detailModel.numItems">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FirebaseDetailViewModel.downloadImage(id:):FirebaseDetailViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data">
+            </PersistentString>
+            <PersistentString
+               value = "imageHold">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in FirebaseDetailViewModel.downloadImage(id:):FirebaseDetailViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imageHold">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FirebaseSignInViewModel.signIn(email:):FirebaseSignInViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "signInResult">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in closure #1 in closure #1 in closure #1 in FirebaseSignInLoadingView.body.getter:FirebaseSignInLoadingView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel.signInResult">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FirebaseNetworkMonitor.getNumImages():FirebaseNetworkMonitor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "returnCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FirebaseNetworkMonitor.getNumImages(completion:):FirebaseNetworkMonitor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FirebaseNetworkMonitor.uploadImageDetail(image:id:currentNumImages:):FirebaseNetworkMonitor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.numImages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in closure #1 in closure #1 in closure #1 in FirebaseAddingView.body.getter:FirebaseAddingView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FirebaseNetworkMonitor.getNumImages(_:):FirebaseNetworkMonitor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "count">
+            </PersistentString>
+            <PersistentString
+               value = "imageSearchFinished">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FirebaseNetworkMonitor.sortCustomer(sortBy:Customer:):FirebaseNetworkMonitor.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TaskNetworkMonitor.getDetail(Customer:userId:):TaskNetworkMonitor.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #2 in FirebaseListView.body.getter:FirebaseListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.extcustomers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FirebaseDetailViewModel.downloadImage(id:count:maxCount:):FirebaseDetailViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "paths">
+            </PersistentString>
+            <PersistentString
+               value = "downloadedImage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in closure #1 in closure #1 in closure #1 in FirebaseDetailLoadingView.body.getter:FirebaseDetailLoadingView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isLoaded">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in closure #1 in FirebaseDetailLoading.body.getter:FirebaseDetailLoading.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.dataImage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in closure #2 in FirebaseDetailView.body.getter:FirebaseDetailView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.numImages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in FirebaseSignInViewModel.signIn(email:):FirebaseSignInViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel.signInResult">
+            </PersistentString>
+            <PersistentString
+               value = "signInResult">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #2 in closure #1 in FirebaseListView.body.getter:FirebaseListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.customers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in closure #1 in closure #1 in FirebaseUpdatingView.body.getter:FirebaseUpdatingView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.numImages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in FirebaseAddingView.body.getter:FirebaseAddingView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FirebaseListViewModel.getAllTasks():FirebaseListViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "querySnapshot">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in FirebaseDetailView.imageView.getter:FirebaseDetailView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.imageData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in FirebaseDetailViewModel.listallDocuments(id:completion:):FirebaseDetailViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "result?.items.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #2 in FirebaseDetailView.imageRemove.getter:FirebaseDetailView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.numImages">
+            </PersistentString>
+            <PersistentString
+               value = "detailModel.numItems">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FirebaseInsertViewModel.uploadImage(image:id:):FirebaseInsertViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "numImages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in closure #1 in closure #1 in FirebaseListView.allCustomersList.getter:FirebaseListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.customers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in FirebaseDetailLoading.body.getter:FirebaseDetailLoading.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.dataImage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in FirebaseDetailLoadingView.downloadImages():FirebaseDetailLoadingView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.imageData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in closure #1 in FirebaseListView.body.getter:FirebaseListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.customers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in FirebaseNetworkMonitor.getNumImages(completion:):FirebaseNetworkMonitor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data">
+            </PersistentString>
+            <PersistentString
+               value = "returnCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #2 in FirebaseInsertView.buttonsView.getter:FirebaseInsertView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.imageData">
+            </PersistentString>
+            <PersistentString
+               value = "networkMonitor.image">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #2 in FirebaseDetailView.body.getter:FirebaseDetailView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "detailModel.downloadedUIImage">
+            </PersistentString>
+            <PersistentString
+               value = "detailModel.numItems">
+            </PersistentString>
+            <PersistentString
+               value = "detailModel.downloadedImage">
+            </PersistentString>
+            <PersistentString
+               value = "networkMonitor.numImages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FirebaseListViewModel.getSortedCustomers():FirebaseListViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FirebaseNetworkMonitor.deleteImagesFirebase(imageCount:):FirebaseNetworkMonitor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #9 in closure #1 in closure #1 in FirebaseDetailView.body.getter:FirebaseDetailView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.imageData?.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #3 in closure #1 in closure #1 in FirebaseListView.body.getter:FirebaseListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.customers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #2 in closure #1 in closure #1 in FirebaseListView.body.getter:FirebaseListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkMonitor.id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
